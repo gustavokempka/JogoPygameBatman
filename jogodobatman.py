@@ -1,3 +1,5 @@
+'''By Gustavo Kempka RA 1131986'''
+
 import os
 import pygame
 import time
